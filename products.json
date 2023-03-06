@@ -1,0 +1,508 @@
+{
+  "products": [
+    {
+      "productId": "1118162281",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 4.4,
+      "listPrice": 199.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1118162281.jpg"
+    },
+    {
+      "productId": "63753844",
+      "productDisplayName": "Playera tipo polo Tommy Jeans para hombre",
+      "productAvgRating": 4.5,
+      "listPrice": 799.0,
+      "brand": "TOMMY JEANS",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/63753844.jpg"
+    },
+    {
+      "productId": "1124671641",
+      "productDisplayName": "Jeans slim American Eagle lavado stone wash para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 999.0,
+      "brand": "AMERICAN EAGLE",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1124671641.jpg"
+    },
+    {
+      "productId": "1112712122",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 299.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1112712122.jpg"
+    },
+    {
+      "productId": "1062909804",
+      "productDisplayName": "Jeans skinny 365 Essential Claro",
+      "productAvgRating": 4.5,
+      "listPrice": 349.0,
+      "brand": "365 ESSENTIAL",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1062909804.jpg"
+    },
+    {
+      "productId": "1084753776",
+      "productDisplayName": "Jeans skinny 365 Essential obscuro",
+      "productAvgRating": 4.7,
+      "listPrice": 399.0,
+      "brand": "365 ESSENTIAL",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1084753776.jpg"
+    },
+    {
+      "productId": "1061579843",
+      "productDisplayName": "Camisa de vestir Jbe de algodón manga larga para hombre",
+      "productAvgRating": 4.6,
+      "listPrice": 449.0,
+      "brand": "JBE",
+      "seller": "liverpool",
+      "lgImage": "https://ss276.liverpool.com.mx/lg/1061579843.jpg"
+    },
+    {
+      "productId": "25172175",
+      "productDisplayName": "Camisa de vestir Oscar de la Renta manga larga para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 799.0,
+      "brand": "OSCAR DE LA RENTA",
+      "seller": "liverpool",
+      "lgImage": "https://ss276.liverpool.com.mx/lg/25172175.jpg"
+    },
+    {
+      "productId": "1110890813",
+      "productDisplayName": "Playera tipo polo Aéropostale para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 599.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1110890813.jpg"
+    },
+    {
+      "productId": "9945521039",
+      "productDisplayName": "Sudadera K-Swiss Batman para hombre",
+      "productAvgRating": 4.6,
+      "listPrice": 649.0,
+      "brand": "K-SWISS",
+      "seller": "Kswiss",
+      "lgImage": "https://ss639.liverpool.com.mx/lg/1126517030.jpg"
+    },
+    {
+      "productId": "25064691",
+      "productDisplayName": "Jeans straight Levi's 501 obscuro",
+      "productAvgRating": 4.8,
+      "listPrice": 1199.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/25064691.jpg"
+    },
+    {
+      "productId": "1006246911",
+      "productDisplayName": "Jeans straight Levi's 514 lavado obscuro para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 1299.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1006246911.jpg"
+    },
+    {
+      "productId": "1119314700",
+      "productDisplayName": "Sudadera Nautica para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 2890.0,
+      "brand": "NAUTICA",
+      "seller": "liverpool",
+      "lgImage": "https://ss261.liverpool.com.mx/lg/1119316738.jpg"
+    },
+    {
+      "productId": "1112304369",
+      "productDisplayName": "Jeans straight lavado claro para hombre",
+      "productAvgRating": 0.0,
+      "listPrice": 1299.0,
+      "brand": "GAP",
+      "seller": "gap",
+      "lgImage": "https://ss223.liverpool.com.mx/lg/1112304369.jpg"
+    },
+    {
+      "productId": "1099793218",
+      "productDisplayName": "Playera Regent Street cuello redondo para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 199.0,
+      "brand": "REGENT STREET",
+      "seller": "liverpool",
+      "lgImage": "https://ss271.liverpool.com.mx/lg/1099793218.jpg"
+    },
+    {
+      "productId": "1115668868",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 279.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1115668868.jpg"
+    },
+    {
+      "productId": "1041083991",
+      "productDisplayName": "Jeans Slim Levi's 511  obscuro",
+      "productAvgRating": 4.7,
+      "listPrice": 1399.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1041083991.jpg"
+    },
+    {
+      "productId": "1100650939",
+      "productDisplayName": "Playera tipo polo Regent Street para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 349.0,
+      "brand": "REGENT STREET",
+      "seller": "liverpool",
+      "lgImage": "https://ss271.liverpool.com.mx/lg/1100650939.jpg"
+    },
+    {
+      "productId": "65248080",
+      "productDisplayName": "Jeans straight Levi's 505 para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 1199.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/65248080.jpg"
+    },
+    {
+      "productId": "1062907291",
+      "productDisplayName": "Jeans slim 365 Essential para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 499.0,
+      "brand": "365 ESSENTIAL",
+      "seller": "liverpool",
+      "lgImage": "https://ss245.liverpool.com.mx/lg/1062907291.jpg"
+    },
+    {
+      "productId": "25048300",
+      "productDisplayName": "Jeans straight Levi'S 501 claro",
+      "productAvgRating": 4.8,
+      "listPrice": 1199.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/25048300.jpg"
+    },
+    {
+      "productId": "1115674108",
+      "productDisplayName": "Playera tipo polo Aéropostale para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 599.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1115674108.jpg"
+    },
+    {
+      "productId": "65252931",
+      "productDisplayName": "Jeans straight Levi's 505 claro",
+      "productAvgRating": 4.7,
+      "listPrice": 1199.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/65252931.jpg"
+    },
+    {
+      "productId": "1126246484",
+      "productDisplayName": "Jeans skinny American Eagle lavado deslavado para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 1199.0,
+      "brand": "AMERICAN EAGLE",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1126246484.jpg"
+    },
+    {
+      "productId": "1083311681",
+      "productDisplayName": "Pantalón skinny GAP de algodón para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 1299.0,
+      "brand": "GAP",
+      "seller": "gap",
+      "lgImage": "https://ss223.liverpool.com.mx/lg/1083311681.jpg"
+    },
+    {
+      "productId": "1065896177",
+      "productDisplayName": "Pantalón de vestir regular Sansabelt para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 899.0,
+      "brand": "SANSABELT",
+      "seller": "liverpool",
+      "lgImage": "https://ss247.liverpool.com.mx/lg/1065896177.jpg"
+    },
+    {
+      "productId": "1106528566",
+      "productDisplayName": "Pantalón pijama Nautica",
+      "productAvgRating": 4.9,
+      "listPrice": 449.0,
+      "brand": "NAUTICA",
+      "seller": "liverpool",
+      "lgImage": "https://ss288.liverpool.com.mx/lg/1106528604.jpg"
+    },
+    {
+      "productId": "1118923052",
+      "productDisplayName": "Chaleco JBE con bolsillos para hombre",
+      "productAvgRating": 4.0,
+      "listPrice": 499.0,
+      "brand": "JBE",
+      "seller": "liverpool",
+      "lgImage": "https://ss271.liverpool.com.mx/lg/1118923134.jpg"
+    },
+    {
+      "productId": "1115942005",
+      "productDisplayName": "Chamarra bomber Nautica impermeable con bolsillos para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 2599.0,
+      "brand": "NAUTICA",
+      "seller": "liverpool",
+      "lgImage": "https://ss261.liverpool.com.mx/lg/1115942005.jpg"
+    },
+    {
+      "productId": "1121370101",
+      "productDisplayName": "Suéter Polo Ralph Lauren cuello redondo para hombre",
+      "productAvgRating": 4.4,
+      "listPrice": 1649.0,
+      "brand": "POLO RALPH LAUREN",
+      "seller": "liverpool",
+      "lgImage": "https://ss261.liverpool.com.mx/lg/1121370101.jpg"
+    },
+    {
+      "productId": "1064184297",
+      "productDisplayName": "Jeans Slim Levi's 511 claro",
+      "productAvgRating": 4.8,
+      "listPrice": 1399.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1064184297.jpg"
+    },
+    {
+      "productId": "1080377273",
+      "productDisplayName": "Camisa de vestir Calvin Klein manga larga para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 929.0,
+      "brand": "CALVIN KLEIN",
+      "seller": "liverpool",
+      "lgImage": "https://ss276.liverpool.com.mx/lg/1080377273.jpg"
+    },
+    {
+      "productId": "1126246301",
+      "productDisplayName": "Jeans skinny American Eagle lavado destruido para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 1599.0,
+      "brand": "AMERICAN EAGLE",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1126246301.jpg"
+    },
+    {
+      "productId": "1114960204",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 0.0,
+      "listPrice": 249.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1114960204.jpg"
+    },
+    {
+      "productId": "1060928607",
+      "productDisplayName": "Playera cuello redondo para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 449.0,
+      "brand": "GAP",
+      "seller": "liverpool",
+      "lgImage": "https://ss223.liverpool.com.mx/lg/1064793931.jpg"
+    },
+    {
+      "productId": "1071064409",
+      "productDisplayName": "Camisa de vestir Nautica de algodón manga larga para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 999.0,
+      "brand": "NAUTICA",
+      "seller": "liverpool",
+      "lgImage": "https://ss276.liverpool.com.mx/lg/1071064409.jpg"
+    },
+    {
+      "productId": "1102772918",
+      "productDisplayName": "Playera tipo polo American Eagle para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 799.0,
+      "brand": "AMERICAN EAGLE",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1102772918.jpg"
+    },
+    {
+      "productId": "1110128601",
+      "productDisplayName": "Bermuda Aéropostale de algodón para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 899.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1110128601.jpg"
+    },
+    {
+      "productId": "1057724830",
+      "productDisplayName": "Pantalón de vestir straight JBE para hombre",
+      "productAvgRating": 4.5,
+      "listPrice": 699.0,
+      "brand": "JBE",
+      "seller": "liverpool",
+      "lgImage": "https://ss247.liverpool.com.mx/lg/1057724830.jpg"
+    },
+    {
+      "productId": "1114963025",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 4.5,
+      "listPrice": 249.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1114963025.jpg"
+    },
+    {
+      "productId": "1064184122",
+      "productDisplayName": "Jeans slim Levi's 511 lavado obscuro para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 1399.0,
+      "brand": "LEVI'S",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1064184122.jpg"
+    },
+    {
+      "productId": "1085069950",
+      "productDisplayName": "Playera Guess cuello redondo para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 690.0,
+      "brand": "GUESS",
+      "seller": "liverpool",
+      "lgImage": "https://ss245.liverpool.com.mx/lg/1085069950.jpg"
+    },
+    {
+      "productId": "1046014831",
+      "productDisplayName": "Bóxer Puma 2 piezas",
+      "productAvgRating": 4.5,
+      "listPrice": 499.0,
+      "brand": "PUMA",
+      "seller": "liverpool",
+      "lgImage": "https://ss285.liverpool.com.mx/lg/1046014831.jpg"
+    },
+    {
+      "productId": "1119518640",
+      "productDisplayName": "Playera tipo polo Regent Street para hombre",
+      "productAvgRating": 3.9,
+      "listPrice": 299.0,
+      "brand": "REGENT STREET",
+      "seller": "liverpool",
+      "lgImage": "https://ss271.liverpool.com.mx/lg/1119518640.jpg"
+    },
+    {
+      "productId": "1110893022",
+      "productDisplayName": "Playera tipo polo Aéropostale para hombre",
+      "productAvgRating": 4.5,
+      "listPrice": 599.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1110893022.jpg"
+    },
+    {
+      "productId": "1094213477",
+      "productDisplayName": "Bóxer Skiny 3 piezas",
+      "productAvgRating": 4.7,
+      "listPrice": 479.0,
+      "brand": "SKINY",
+      "seller": "liverpool",
+      "lgImage": "https://ss285.liverpool.com.mx/lg/1094213477.jpg"
+    },
+    {
+      "productId": "1118160474",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 4.3,
+      "listPrice": 249.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1118160474.jpg"
+    },
+    {
+      "productId": "1112072735",
+      "productDisplayName": "Playera tipo polo Aéropostale estampado a rayas para hombre",
+      "productAvgRating": 4.6,
+      "listPrice": 499.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1112072735.jpg"
+    },
+    {
+      "productId": "1020401481",
+      "productDisplayName": "Playera tipo polo Tommy Jeans para hombre",
+      "productAvgRating": 4.7,
+      "listPrice": 799.0,
+      "brand": "TOMMY JEANS",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1020401481.jpg"
+    },
+    {
+      "productId": "1083309856",
+      "productDisplayName": "Pantalón slim de algodón para hombre",
+      "productAvgRating": 5.0,
+      "listPrice": 1299.0,
+      "brand": "GAP",
+      "seller": "gap",
+      "lgImage": "https://ss223.liverpool.com.mx/lg/1083309856.jpg"
+    },
+    {
+      "productId": "1118923389",
+      "productDisplayName": "Chamarra JBE con bolsillos para hombre",
+      "productAvgRating": 4.6,
+      "listPrice": 1699.0,
+      "brand": "JBE",
+      "seller": "liverpool",
+      "lgImage": "https://ss271.liverpool.com.mx/lg/1118923389.jpg"
+    },
+    {
+      "productId": "1017502293",
+      "productDisplayName": "Camisa de vestir John Henry manga larga para hombre",
+      "productAvgRating": 4.6,
+      "listPrice": 779.0,
+      "brand": "JOHN HENRY",
+      "seller": "liverpool",
+      "lgImage": "https://ss276.liverpool.com.mx/lg/1017502293.jpg"
+    },
+    {
+      "productId": "1100417762",
+      "productDisplayName": "Short Aéropostale para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 999.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1100417762.jpg"
+    },
+    {
+      "productId": "1008234902",
+      "productDisplayName": "Short pijama Perry Ellis para hombre",
+      "productAvgRating": 4.9,
+      "listPrice": 359.0,
+      "brand": "PERRY ELLIS",
+      "seller": "liverpool",
+      "lgImage": "https://ss288.liverpool.com.mx/lg/1008234902.jpg"
+    },
+    {
+      "productId": "1115668299",
+      "productDisplayName": "Playera Aéropostale cuello redondo para hombre",
+      "productAvgRating": 0.0,
+      "listPrice": 199.0,
+      "brand": "AÉROPOSTALE",
+      "seller": "liverpool",
+      "lgImage": "https://ss224.liverpool.com.mx/lg/1115668299.jpg"
+    },
+    {
+      "productId": "1102775291",
+      "productDisplayName": "Camisa casual American Eagle de algodón manga larga para hombre",
+      "productAvgRating": 4.8,
+      "listPrice": 1099.0,
+      "brand": "AMERICAN EAGLE",
+      "seller": "liverpool",
+      "lgImage": "https://ss251.liverpool.com.mx/lg/1102775291.jpg"
+    }
+  ]
+}
